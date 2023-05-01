@@ -1,0 +1,1 @@
+CREATE SCHEMA `your_schema_name` DEFAULT CHARACTER SET utf8 ;
