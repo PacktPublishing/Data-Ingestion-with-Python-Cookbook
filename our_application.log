@@ -1,0 +1,9 @@
+2023-03-19 20:16:46,937 - root - DEBUG - Start testing function
+2023-03-19 20:16:47,472 - root - WARNING - Starting the function to get the first line of a CSV
+2023-03-19 20:16:47,472 - root - INFO - Starting function to read first line
+2023-03-19 20:16:47,472 - root - INFO - Reading file
+2023-03-19 20:16:47,472 - root - DEBUG - Finished without problems
+2023-03-19 21:30:00,586 - root - WARNING - Starting the function to get the first line of a CSV
+2023-03-19 21:30:00,586 - root - INFO - Starting function to read first line
+2023-03-19 21:30:00,587 - root - INFO - Reading file
+2023-03-19 21:30:00,587 - root - DEBUG - Finished without problems
